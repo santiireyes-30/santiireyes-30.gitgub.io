@@ -1,3 +1,5 @@
+baseurl: ""
+url: "https://santiireyes-30.github.io"
 title: Leaf Blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
